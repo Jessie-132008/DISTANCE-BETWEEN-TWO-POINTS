@@ -26,6 +26,8 @@ y2 = float(input("Enter y2: "))
 distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 
 print("Distance between two points =", distance)
+Developed by: JESSIE.J
+RegisterNumber: 25017372
 ```  
 
 
