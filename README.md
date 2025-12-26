@@ -32,13 +32,9 @@ RegisterNumber: 25017372
 
 
 ### OUTPUT:
-```
-Enter x1: 4
-Enter y1: 6
-Enter x2: 5
-Enter y2: 8
-Distance between two points = 2.23606797749979
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a06eb3cd-8232-4f11-955e-7e50cade6cbf" />
+
 
 ### RESULT:
+
  Thus, the output to find the distances is esxcuted and achieved.
